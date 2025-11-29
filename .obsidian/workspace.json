@@ -11,10 +11,14 @@
             "id": "939a0204a0e340d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN20 一般性问题.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TN20 一般性问题"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "base/Chinese Thesaurus Classification Base.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chinese Thesaurus Classification Base"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base/Chinese Thesaurus Classification Base.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Chinese Thesaurus Classification Base"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "base/Chinese Thesaurus Classification Base.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chinese Thesaurus Classification Base"
             }
           }
         ]
@@ -177,5 +184,38 @@
     }
   },
   "active": "939a0204a0e340d4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "templater",
+    "新建文件夹",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN214 红外光学器件.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN219 红外技术的应用.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN241 激光物理和基本理论.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN245 能源、光泵（浦）.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN24 激光技术、微波激射技术.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN249 激光的应用.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN244 激光材料及工作物质.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN20 一般性问题.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN209 应用.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN201 基础理论.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN208 工厂（车间）.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN206 测试、调整及其设备.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN202 设计.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN335 PNPN 四层结构器件.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN31 半导体二极管.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN312 二极管：按结构和性能分.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN313 二极管：按作用分.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN36 半导体光电器件.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN315 二极管：按材料分.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN307 测量和检验.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN302 设计与计算.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN4 微电子学、集成电路（IC）/TN431 双极型.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN4 微电子学、集成电路（IC）/TN409 应用.md",
+    "base/Chinese Library Classification Aliase Base.base",
+    "base/Chinese Library Classification Base.base",
+    "base/Chinese Thesaurus Classification Base.base",
+    "base/Chinese Thesaurus Source Base.base",
+    "base/Chinese Thesaurus Base.base"
+  ]
 }

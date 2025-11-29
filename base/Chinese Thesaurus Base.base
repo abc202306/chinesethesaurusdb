@@ -4,7 +4,7 @@ summaries:
   Count: values.length
 filters:
   and:
-    - file.inFolder("chinesethesaurusdb/chinesethesaurus")
+    - file.inFolder("chinesethesaurus")
 formulas:
   fileNameChar01: file.name[0]
   placehold: '"|__| =>"'
