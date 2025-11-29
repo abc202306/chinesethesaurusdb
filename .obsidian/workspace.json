@@ -11,14 +11,14 @@
             "id": "4ddc575a94d35b6d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "chineselibraryclassification/O 数理科学和化学/O7 晶体学.md",
-                "bFile": "chineselibraryclassification/O 数理科学和化学/O7 晶体学.md",
-                "aRef": ""
+                "file": "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928 事故调查与分析（工伤事故分析与预防）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: O7 晶体学"
+              "icon": "lucide-file",
+              "title": "X928 事故调查与分析（工伤事故分析与预防）"
             }
           }
         ]
@@ -167,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928 事故调查与分析（工伤事故分析与预防）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of X928 事故调查与分析（工伤事故分析与预防）"
             }
           }
         ],
@@ -196,32 +197,32 @@
   },
   "active": "4ddc575a94d35b6d",
   "lastOpenFiles": [
-    "chineselibraryclassification/O 数理科学和化学.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O65 分析化学.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O652 分析作业方法与技术.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O661 液体分析、水分析.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O658 元素及化合物的分离方法.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O657 仪器分析法（物理及物理化学分析法）.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O658.1 色层吸附分析（层析法）.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O658.1+1 吸附层析.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O657.1 电化学分析法.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O657.15 电势分析法和离子选择性电极分析法.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O64 物理化学（理论化学）、化学物理学.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O63 高分子化学（高聚物）.md",
-    "chineselibraryclassification/O 数理科学和化学/O6 化学/O635 无机高分子化合物（高聚物）.md",
-    "chineselibraryclassification/O 数理科学和化学/O3 力学.md",
-    "chineselibraryclassification/O 数理科学和化学/O7 晶体学.md",
-    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O75 非晶态和类晶态.md",
-    "chineselibraryclassification/O 数理科学和化学/O1 数学.md",
-    "chineselibraryclassification/O 数理科学和化学/O4 物理学.md",
-    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O79 晶体物理化学过程.md",
-    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O794 玻璃的晶化.md",
-    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O791 扩散.md",
-    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O792 相变.md",
-    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O795 晶化过程的热力学与动力学.md",
-    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O793 表面现象和表面性能.md",
-    "chineselibraryclassification/O 数理科学和化学/O1 数学/O24 计算数学.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928 事故调查与分析（工伤事故分析与预防）.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X924 安全监察.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X922 安全组织与管理机构.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X92 安全管理（劳动保护管理）.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X922.3_.7 各国.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X922.2 中国.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X922.1 世界.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X924.4 安全控制技术.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X924.3 安全监控系统.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X924.2 安全监测技术与设备.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/{X924.1} 安全监察工作.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.9 其他.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.7 火灾与爆炸事故.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.6 物理因素事故.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.5 化学物质致因事故.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.4 机械伤害事故.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.3 锅炉、压力容器事故.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.2 电击、电伤事故.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.1 粉尘危害事故.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X928.0 一般性问题.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X96 劳动卫生工程.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X933.7 锅炉烟尘危害.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X933 锅炉、压力容器安全.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X93-65 安全规程.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X93-6 安全工程参考工具书.md",
+    "chineselibraryclassification/X 环境科学、安全科学/X9 安全科学/X93 安全工程.md",
     "templater",
     "新建文件夹",
     "base/Chinese Library Classification Aliase Base.base",
