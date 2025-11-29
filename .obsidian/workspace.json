@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed1fccd2539d11b8",
+        "id": "011106c157960023",
         "type": "tabs",
         "children": [
           {
-            "id": "939a0204a0e340d4",
+            "id": "4ddc575a94d35b6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN20 一般性问题.md",
-                "mode": "source",
-                "source": false
+                "aFile": "chineselibraryclassification/O 数理科学和化学/O7 晶体学.md",
+                "bFile": "chineselibraryclassification/O 数理科学和化学/O7 晶体学.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "TN20 一般性问题"
+              "icon": "diff",
+              "title": "Diff: O7 晶体学"
             }
           }
         ]
@@ -73,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "9662ab580800ea37",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,21 +167,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/Chinese Thesaurus Classification Base.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chinese Thesaurus Classification Base"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,38 +190,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "939a0204a0e340d4",
+  "active": "4ddc575a94d35b6d",
   "lastOpenFiles": [
+    "chineselibraryclassification/O 数理科学和化学.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O65 分析化学.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O652 分析作业方法与技术.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O661 液体分析、水分析.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O658 元素及化合物的分离方法.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O657 仪器分析法（物理及物理化学分析法）.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O658.1 色层吸附分析（层析法）.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O658.1+1 吸附层析.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O657.1 电化学分析法.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O657.15 电势分析法和离子选择性电极分析法.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O64 物理化学（理论化学）、化学物理学.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O63 高分子化学（高聚物）.md",
+    "chineselibraryclassification/O 数理科学和化学/O6 化学/O635 无机高分子化合物（高聚物）.md",
+    "chineselibraryclassification/O 数理科学和化学/O3 力学.md",
+    "chineselibraryclassification/O 数理科学和化学/O7 晶体学.md",
+    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O75 非晶态和类晶态.md",
+    "chineselibraryclassification/O 数理科学和化学/O1 数学.md",
+    "chineselibraryclassification/O 数理科学和化学/O4 物理学.md",
+    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O79 晶体物理化学过程.md",
+    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O794 玻璃的晶化.md",
+    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O791 扩散.md",
+    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O792 相变.md",
+    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O795 晶化过程的热力学与动力学.md",
+    "chineselibraryclassification/O 数理科学和化学/O7 晶体学/O793 表面现象和表面性能.md",
+    "chineselibraryclassification/O 数理科学和化学/O1 数学/O24 计算数学.md",
     "templater",
     "新建文件夹",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN214 红外光学器件.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN219 红外技术的应用.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN241 激光物理和基本理论.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN245 能源、光泵（浦）.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN24 激光技术、微波激射技术.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN249 激光的应用.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN244 激光材料及工作物质.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN20 一般性问题.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN209 应用.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN201 基础理论.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN208 工厂（车间）.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN206 测试、调整及其设备.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN2 光电子技术、激光技术/TN202 设计.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN335 PNPN 四层结构器件.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN31 半导体二极管.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN312 二极管：按结构和性能分.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN313 二极管：按作用分.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN36 半导体光电器件.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN315 二极管：按材料分.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN307 测量和检验.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN3 半导体技术/TN302 设计与计算.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN4 微电子学、集成电路（IC）/TN431 双极型.md",
-    "chineselibraryclassification/TN 无线电电子学、电信技术/TN4 微电子学、集成电路（IC）/TN409 应用.md",
     "base/Chinese Library Classification Aliase Base.base",
     "base/Chinese Library Classification Base.base",
     "base/Chinese Thesaurus Classification Base.base",
