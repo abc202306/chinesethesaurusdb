@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.inFolder("chinesethesaurusdb/chinesethesaurussources")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - up
+      - file.links
+    columnSize:
+      note.up: 126
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - subpages
+      - up
