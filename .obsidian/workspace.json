@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d58a33a783e9a767",
+        "id": "8df05a0750abfa0c",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ee8951ce852b9d",
+            "id": "323c62f8d4866cd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725.7 小儿消化系及腹部疾病.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "R725.7 小儿消化系及腹部疾病"
             }
           }
         ]
@@ -25,18 +29,117 @@
   "left": {
     "id": "69c90e1524f2970f",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "30b4d5b61210f152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4a5f42592b9a9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae7ea106938c85ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"chineselibraryclassification/\" /^#\\s[^]*^#\\s/",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "deec05a4e95679c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "4aaedeb23df86444",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "a5b7abfec9ff934b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93f75d2e5ead6e31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725.7 小儿消化系及腹部疾病.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for R725.7 小儿消化系及腹部疾病"
+            }
+          },
+          {
+            "id": "29a97de559c8af19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a669fc202494afac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -46,46 +149,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "d4ee8951ce852b9d",
+  "active": "323c62f8d4866cd1",
   "lastOpenFiles": [
-    "README.md",
-    "chineselibraryclassification/V 航空、航天/V2 航空/V233.5 冷却系统.md",
-    "chineselibraryclassification/U 交通运输/U463.212+.34 操纵加力装置.md",
-    "chineselibraryclassification/U 交通运输/U463.212+.33 电磁操纵.md",
-    "chineselibraryclassification/U 交通运输/U463.212+.32 气压式.md",
-    "chineselibraryclassification/U 交通运输/U463.212+.31 机械式.md",
-    "chineselibraryclassification/U 交通运输/U463.212+.43 润滑油泵.md",
-    "chineselibraryclassification/U 交通运输/U463.212+.42 齿轮.md",
-    "chineselibraryclassification/U 交通运输/U463.212+.41 同步器.md",
-    "chineselibraryclassification/U 交通运输/U412.35+2.12 匝道.md",
-    "chineselibraryclassification/U 交通运输/U412.35+2.11 多层互通交叉.md",
-    "chineselibraryclassification/U 交通运输/U416.216+.3 贫（素）混凝土路面.md",
-    "chineselibraryclassification/U 交通运输/U416.216+.2 连续配筋混凝土路面.md",
-    "chineselibraryclassification/U 交通运输/U416.216+.1 预应力混凝土路面.md",
-    "chineselibraryclassification/U 交通运输/U412.37+3.3 空间多层道.md",
-    "chineselibraryclassification/U 交通运输/U412.37+3.2 高架道.md",
-    "chineselibraryclassification/U 交通运输/U412.37+3.1 地下道.md",
-    "chineselibraryclassification/U 交通运输/U412.36+6.4 高速公路间道.md",
-    "chineselibraryclassification/U 交通运输/U412.36+6.3 高速公路入口.md",
-    "chineselibraryclassification/U 交通运输/U412.36+6.2 城市高速公路.md",
-    "chineselibraryclassification/U 交通运输/U412.36+6.1 收费道路.md",
-    "chineselibraryclassification/U 交通运输/U412.35+2.1 互通立体交叉.md",
-    "chineselibraryclassification/U 交通运输/U464.133+.4 主轴瓦及连杆轴瓦.md",
-    "chineselibraryclassification/U 交通运输/U464.133+.3 曲轴、飞轮及扭振减震器.md",
-    "chineselibraryclassification/U 交通运输/U464.133+.2 连杆、连杆螺栓、连杆小头衬套.md",
-    "chineselibraryclassification/U 交通运输/U464.133+.1 活塞、活塞环、活塞销.md",
-    "clcid.json",
-    "base/Chinese Library Classification Base.base",
-    "templater",
+    "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725 小儿内科学.md",
+    "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725.6 小儿呼吸系及胸部疾病.md",
+    "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725.5 小儿血液及淋巴系疾病.md",
+    "chineselibraryclassification/R 医药、卫生/R72 儿科学.md",
+    "chineselibraryclassification/R 医药、卫生/R72 儿科学/R723 婴儿的营养障碍.md",
+    "chineselibraryclassification/R 医药、卫生.md",
+    "chineselibraryclassification/R 医药、卫生/R3 基础医学.md",
+    "chineselibraryclassification/R 医药、卫生/R3 基础医学/R395 医学心理学、病理心理学.md",
+    "chineselibraryclassification/R 医药、卫生/R3 基础医学/[R395.4] 精神病与心理.md",
+    "chineselibraryclassification/R 医药、卫生/R4 临床医学/R44 诊断学.md",
+    "chineselibraryclassification/R 医药、卫生/R74 神经病学与精神病学/R749 精神病学.md",
+    "chineselibraryclassification/R 医药、卫生/R74 神经病学与精神病学/R741 神经病学.md",
+    "chineselibraryclassification/K 历史、地理.md",
+    "chineselibraryclassification/F 经济/F0 经济学.md",
+    "chinesethesaurus/治愈.md",
+    "chinesethesaurus/绿色软件.md",
+    "chinesethesaurus/接口程序.md",
+    "chinesethesaurus/合作.md",
+    "chinesethesaurus/方式.md",
+    "chinesethesaurus/订阅.md",
+    "chinesethesaurus/单片机软件.md",
+    "chinesethesaurus/按钮.md",
+    "chineselibraryclassification/Z 综合性图书.md",
+    "chineselibraryclassification/U 交通运输.md",
+    "chineselibraryclassification/I 文学.md",
+    "chineselibraryclassification/ZT_ 通用概念.md",
     "base/Chinese Library Classification Aliase Base.base",
-    "templates",
-    "新建文件夹",
-    "base/Chinese Thesaurus Classification Base.base",
+    "base/Chinese Library Classification Base.base",
+    "meta",
+    "base/Chinese Thesaurus Base.base",
     "base/Chinese Thesaurus Source Base.base",
-    "base/Chinese Thesaurus Base.base"
+    "base/Chinese Thesaurus Classification Base.base",
+    "canvas/中国图书馆分类法 Canvas.canvas",
+    "canvas/O 数理科学和化学 Canvas.canvas",
+    "lagacy",
+    "canvas/J2 绘画 Canvas.canvas",
+    "canvas/H 语言、文字 Canvas.canvas",
+    "canvas/D 政治、法律 Canvas.canvas",
+    "clcid.json",
+    "templater",
+    "templates"
   ]
 }
