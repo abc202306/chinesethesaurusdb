@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89f1933dc6265c3d",
+        "id": "d58a33a783e9a767",
         "type": "tabs",
         "children": [
           {
-            "id": "6798e42294292c9e",
+            "id": "d4ee8951ce852b9d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -31,51 +31,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1295a3c383610b9b",
+            "id": "174e916ea6cec2f7",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "54f8dada6bf96680",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "path:chineselibraryclassification/ -[\"aliases\"]",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "0cba0caaa64e9ec2",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "right": {
     "id": "4aaedeb23df86444",
@@ -163,16 +132,6 @@
             }
           },
           {
-            "id": "174e916ea6cec2f7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "1f54ed8345a8a5c3",
             "type": "leaf",
             "state": {
@@ -183,11 +142,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,35 +160,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54f8dada6bf96680",
+  "active": "d4ee8951ce852b9d",
   "lastOpenFiles": [
+    "README.md",
+    "chineselibraryclassification/V 航空、航天/V2 航空/V233.5 冷却系统.md",
+    "chineselibraryclassification/U 交通运输/U463.212+.34 操纵加力装置.md",
+    "chineselibraryclassification/U 交通运输/U463.212+.33 电磁操纵.md",
+    "chineselibraryclassification/U 交通运输/U463.212+.32 气压式.md",
+    "chineselibraryclassification/U 交通运输/U463.212+.31 机械式.md",
+    "chineselibraryclassification/U 交通运输/U463.212+.43 润滑油泵.md",
+    "chineselibraryclassification/U 交通运输/U463.212+.42 齿轮.md",
+    "chineselibraryclassification/U 交通运输/U463.212+.41 同步器.md",
+    "chineselibraryclassification/U 交通运输/U412.35+2.12 匝道.md",
+    "chineselibraryclassification/U 交通运输/U412.35+2.11 多层互通交叉.md",
+    "chineselibraryclassification/U 交通运输/U416.216+.3 贫（素）混凝土路面.md",
+    "chineselibraryclassification/U 交通运输/U416.216+.2 连续配筋混凝土路面.md",
+    "chineselibraryclassification/U 交通运输/U416.216+.1 预应力混凝土路面.md",
+    "chineselibraryclassification/U 交通运输/U412.37+3.3 空间多层道.md",
+    "chineselibraryclassification/U 交通运输/U412.37+3.2 高架道.md",
+    "chineselibraryclassification/U 交通运输/U412.37+3.1 地下道.md",
+    "chineselibraryclassification/U 交通运输/U412.36+6.4 高速公路间道.md",
+    "chineselibraryclassification/U 交通运输/U412.36+6.3 高速公路入口.md",
+    "chineselibraryclassification/U 交通运输/U412.36+6.2 城市高速公路.md",
+    "chineselibraryclassification/U 交通运输/U412.36+6.1 收费道路.md",
+    "chineselibraryclassification/U 交通运输/U412.35+2.1 互通立体交叉.md",
+    "chineselibraryclassification/U 交通运输/U464.133+.4 主轴瓦及连杆轴瓦.md",
+    "chineselibraryclassification/U 交通运输/U464.133+.3 曲轴、飞轮及扭振减震器.md",
+    "chineselibraryclassification/U 交通运输/U464.133+.2 连杆、连杆螺栓、连杆小头衬套.md",
+    "chineselibraryclassification/U 交通运输/U464.133+.1 活塞、活塞环、活塞销.md",
     "clcid.json",
-    "chineselibraryclassification/TL 原子能技术/TL8 粒子探测技术、辐射探测技术与核仪器仪表/TL816+.1 X 射线探测器.md",
-    "chineselibraryclassification/TL 原子能技术/TL8 粒子探测技术、辐射探测技术与核仪器仪表/TL816 中子和其他辐射探测器.md",
-    "chineselibraryclassification/D 政治、法律/DF 法律/DF083_087 各国.md",
-    "chineselibraryclassification/A 马克思主义、列宁主义、毛泽东思想、邓小平理论/A49 邓小平著作/A492 单行著作.md",
     "base/Chinese Library Classification Base.base",
-    "chineselibraryclassification/E 军事/E9 军事技术/E994.1_.7 陆军作战图.md",
-    "chineselibraryclassification/E 军事/E9 军事技术/E993.3_.7 各国军事地理.md",
-    "chineselibraryclassification/E 军事/E8 战略学、战役学、战术学/E893_897 各国.md",
-    "chineselibraryclassification/E 军事/E2 中国军事/E292_294.9 古代各时期军事史（1840 年以前）.md",
-    "chineselibraryclassification/D 政治、法律/DF 法律/DF093_097 各国.md",
-    "chineselibraryclassification/D 政治、法律/DF 法律/DF13_17 各国.md",
-    "chineselibraryclassification/D 政治、法律/D9 法律/D909.3_.7 各国.md",
-    "chineselibraryclassification/D 政治、法律/D8 外交、国际关系/D829.3_.7 与各国外交关系史.md",
-    "chineselibraryclassification/D 政治、法律/D6 中国政治/D443_447 各国妇女运动与组织.md",
-    "chineselibraryclassification/D 政治、法律/D4 工人、农民、青年、妇女运动与组织/D443_447 各国妇女运动与组织.md",
-    "chineselibraryclassification/D 政治、法律/D4 工人、农民、青年、妇女运动与组织/D433_437 各国青年、学生运动与组织.md",
-    "chineselibraryclassification/D 政治、法律/D4 工人、农民、青年、妇女运动与组织/D423_427 各国农民运动与组织.md",
-    "chineselibraryclassification/D 政治、法律/D4 工人、农民、青年、妇女运动与组织/D413_417 各国工人运动与组织.md",
-    "chineselibraryclassification/D 政治、法律/D2 中国共产党/D292.1_.7 地方组织、会议及其文献.md",
-    "chineselibraryclassification/D 政治、法律/D2 中国共产党/D221_227 地方组织、会议及其文献.md",
-    "chineselibraryclassification/D 政治、法律/D0 政治理论/D093_097 各国政治思想史.md",
-    "chineselibraryclassification/D 政治、法律/D9 法律/D93_97 各国法律.md",
-    "chineselibraryclassification/C 社会科学总论/C8 统计学/C833_837 各国.md",
-    "chineselibraryclassification/D 政治、法律/D8 外交、国际关系/D83_87 各国外交.md",
-    "chineselibraryclassification/C 社会科学总论/C92 人口学/C924.3_.7 各国人口.md",
-    "chineselibraryclassification/C 社会科学总论/C8 统计学/C832.1_.7 各地区统计资料.md",
     "templater",
     "base/Chinese Library Classification Aliase Base.base",
     "templates",
