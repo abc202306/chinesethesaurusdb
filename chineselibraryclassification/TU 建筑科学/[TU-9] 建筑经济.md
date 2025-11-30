@@ -3,10 +3,10 @@ up:
   - "[[TU 建筑科学]]"
 aliases:
   - 建筑经济
+clcid: "[TU-9]"
+clctitle: 建筑经济
 ctime: 2025-11-28T18:24:23+08:00
 mtime: 2025-11-28T18:24:23+08:00
-clctitle: 建筑经济
-clcid: "[TU-9]"
 ---
 
 # [TU-9] 建筑经济

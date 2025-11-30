@@ -12,10 +12,10 @@ down:
   - "[[TN08 无线电工厂]]"
 aliases:
   - 一般性问题
+clcid: TN0
+clctitle: 一般性问题
 ctime: 2025-03-25T10:29:53+08:00
 mtime: 2025-10-01T12:23:10+08:00
-clctitle: 一般性问题
-clcid: TN0
 ---
 
 # TN0 一般性问题

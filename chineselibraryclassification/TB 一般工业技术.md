@@ -16,10 +16,10 @@ aliases:
   - TB - General technology
   - General technology
   - 一般工业技术
+clcid: TB
+clctitle: 一般工业技术
 ctime: 2024-12-06T17:12:34+08:00
 mtime: 2025-10-01T12:23:19+08:00
-clctitle: 一般工业技术
-clcid: TB
 ---
 
 # TB 一般工业技术

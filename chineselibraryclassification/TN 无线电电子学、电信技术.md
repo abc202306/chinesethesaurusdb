@@ -25,10 +25,10 @@ aliases:
   - TN - Electronic technique, communication technique
   - Electronic technique, communication technique
   - 无线电电子学、电信技术
+clcid: TN
+clctitle: 无线电电子学、电信技术
 ctime: 2024-12-06T17:21:07+08:00
 mtime: 2025-10-01T12:23:08+08:00
-clctitle: 无线电电子学、电信技术
-clcid: TN
 ---
 
 # TN 无线电电子学、电信技术

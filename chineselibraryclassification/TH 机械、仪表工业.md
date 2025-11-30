@@ -2,12 +2,6 @@
 up:
   - "[[T 工业技术]]"
 english: Mechanical industries,instrument industries
-aliases:
-  - TH - Mechanical industries,instrument industries
-  - Mechanical industries,instrument industries
-  - 机械、仪表工业
-ctime: 2024-12-06T17:17:37+08:00
-mtime: 2025-10-01T11:41:08+08:00
 down:
   - "[[TH-3 机械仪表工业研究方法、工作方法]]"
   - "[[[TH-9] 机械、仪表工业经济]]"
@@ -23,8 +17,14 @@ down:
   - "[[TH4 气体压缩与输送机械]]"
   - "[[TH6 专用机械与设备]]"
   - "[[TH7 仪器、仪表]]"
-clctitle: 机械、仪表工业
+aliases:
+  - TH - Mechanical industries,instrument industries
+  - Mechanical industries,instrument industries
+  - 机械、仪表工业
 clcid: TH
+clctitle: 机械、仪表工业
+ctime: 2024-12-06T17:17:37+08:00
+mtime: 2025-10-01T11:41:08+08:00
 ---
 
 # TH 机械、仪表工业

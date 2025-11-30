@@ -3,10 +3,10 @@ up:
   - "[[TJ 武器工业]]"
 aliases:
   - 武器工业经济
+clcid: TJ-9
+clctitle: 武器工业经济
 ctime: 2025-02-21T20:19:25+08:00
 mtime: 2025-10-01T11:41:08+08:00
-clctitle: 武器工业经济
-clcid: TJ-9
 ---
 
 # TJ-9 武器工业经济

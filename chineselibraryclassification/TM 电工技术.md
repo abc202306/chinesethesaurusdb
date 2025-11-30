@@ -2,12 +2,6 @@
 up:
   - "[[T 工业技术]]"
 english: Electrotechnics
-aliases:
-  - TM - Electrotechnics
-  - Electrotechnics
-  - 电工技术
-ctime: 2024-12-06T17:20:09+08:00
-mtime: 2025-10-01T11:41:06+08:00
 down:
   - "[[[TM-9] 电工技术经济]]"
   - "[[TM0 一般性问题]]"
@@ -22,8 +16,14 @@ down:
   - "[[TM91 独立电源技术（直接发电）]]"
   - "[[TM92 电气化、电能应用]]"
   - "[[TM93 电气测量技术及仪器]]"
-clctitle: 电工技术
+aliases:
+  - TM - Electrotechnics
+  - Electrotechnics
+  - 电工技术
 clcid: TM
+clctitle: 电工技术
+ctime: 2024-12-06T17:20:09+08:00
+mtime: 2025-10-01T11:41:06+08:00
 ---
 
 # TM 电工技术

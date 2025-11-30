@@ -2,12 +2,6 @@
 up:
   - "[[T 工业技术]]"
 english: Hydraulic engineering
-aliases:
-  - TV - Hydraulic engineering
-  - Hydraulic engineering
-  - 水利工程
-ctime: 2024-12-06T17:25:47+08:00
-mtime: 2025-10-01T11:40:52+08:00
 down:
   - "[[[TV-9] 水利经济]]"
   - "[[TV1 水利工程基础科学]]"
@@ -22,8 +16,14 @@ down:
   - "[[[TV91] 运渠（运河、渠道）工程]]"
   - "[[[TV92] 港湾工程]]"
   - "[[[TV93] 农田水利工程]]"
-clctitle: 水利工程
+aliases:
+  - TV - Hydraulic engineering
+  - Hydraulic engineering
+  - 水利工程
 clcid: TV
+clctitle: 水利工程
+ctime: 2024-12-06T17:25:47+08:00
+mtime: 2025-10-01T11:40:52+08:00
 ---
 
 # TV 水利工程

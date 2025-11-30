@@ -13,10 +13,10 @@ down:
 aliases:
   - ZY* 附表
   - 附表
+clcid: ZY*
+clctitle: 附表
 ctime: 2024-03-01T12:36:25+08:00
 mtime: 2025-10-01T12:22:47+08:00
-clctitle: 附表
-clcid: ZY*
 ---
 
 # ZY\* 附表

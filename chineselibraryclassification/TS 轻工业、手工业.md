@@ -22,10 +22,10 @@ aliases:
   - TS - Light industry，handicraft industry，living service industry
   - Light industry，handicraft industry，living service industry
   - 轻工业、手工业
+clcid: TS
+clctitle: 轻工业、手工业
 ctime: 2024-12-06T17:23:54+08:00
 mtime: 2025-10-01T12:23:06+08:00
-clctitle: 轻工业、手工业
-clcid: TS
 ---
 
 # TS 轻工业、手工业

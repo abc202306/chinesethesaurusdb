@@ -14,10 +14,10 @@ aliases:
   - TP - Automation technology, computer technology
   - Automation technology, computer technology
   - 自动化技术、计算机技术
+clcid: TP
+clctitle: 自动化技术、计算机技术
 ctime: 2024-12-06T17:22:03+08:00
 mtime: 2025-11-14T10:14:47+08:00
-clctitle: 自动化技术、计算机技术
-clcid: TP
 ---
 
 # TP 自动化技术、计算机技术

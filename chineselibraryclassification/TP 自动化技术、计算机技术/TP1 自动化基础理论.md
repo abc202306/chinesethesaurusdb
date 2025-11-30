@@ -10,10 +10,10 @@ down:
   - "[[TP18 人工智能理论]]"
 aliases:
   - 自动化基础理论
+clcid: TP1
+clctitle: 自动化基础理论
 ctime: 2025-01-25T13:24:06+08:00
 mtime: 2025-10-01T12:23:09+08:00
-clctitle: 自动化基础理论
-clcid: TP1
 ---
 
 # TP1 自动化基础理论

@@ -2,12 +2,6 @@
 up:
   - "[[T 工业技术]]"
 english: Chemical industries
-aliases:
-  - TQ - Chemical industries
-  - Chemical industries
-  - 化学工业
-ctime: 2024-12-06T17:22:44+08:00
-mtime: 2025-10-01T11:41:04+08:00
 down:
   - "[[[TQ-9] 化学工业经济]]"
   - "[[TQ0 一般性问题]]"
@@ -44,8 +38,14 @@ down:
   - "[[TQ64 油脂和蜡的化学加工工业、肥皂工业]]"
   - "[[TQ65 香料及化妆品工业]]"
   - "[[TQ9 其他化学工业]]"
-clctitle: 化学工业
+aliases:
+  - TQ - Chemical industries
+  - Chemical industries
+  - 化学工业
 clcid: TQ
+clctitle: 化学工业
+ctime: 2024-12-06T17:22:44+08:00
+mtime: 2025-10-01T11:41:04+08:00
 ---
 
 # TQ 化学工业

@@ -2,12 +2,6 @@
 up:
   - "[[T 工业技术]]"
 english: Building science
-aliases:
-  - TU - Building science
-  - Building science
-  - 建筑科学
-ctime: 2024-12-06T17:25:25+08:00
-mtime: 2025-10-01T11:40:56+08:00
 down:
   - "[[TU-0 建筑理论]]"
   - "[[TU-8 建筑艺术]]"
@@ -25,8 +19,14 @@ down:
   - "[[TU97 高层建筑]]"
   - "[[TU98 区域规划、城乡规划]]"
   - "[[TU99 市政工程]]"
-clctitle: 建筑科学
+aliases:
+  - TU - Building science
+  - Building science
+  - 建筑科学
 clcid: TU
+clctitle: 建筑科学
+ctime: 2024-12-06T17:25:25+08:00
+mtime: 2025-10-01T11:40:56+08:00
 ---
 
 # TU 建筑科学

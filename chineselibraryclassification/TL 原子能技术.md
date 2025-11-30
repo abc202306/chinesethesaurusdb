@@ -2,12 +2,6 @@
 up:
   - "[[T 工业技术]]"
 english: Nuclear engineering
-aliases:
-  - TL - Nuclear engineering
-  - Nuclear engineering
-  - 原子能技术
-ctime: 2024-12-06T17:19:35+08:00
-mtime: 2025-10-01T11:41:08+08:00
 down:
   - "[[[TL-9] 原子能技术经济]]"
   - "[[TL1 基础理论]]"
@@ -24,8 +18,14 @@ down:
   - "[[TL93 放射性物质的包装、运输和贮存]]"
   - "[[TL94 放射性废物管理及综合利用]]"
   - "[[TL99 原子能技术的应用]]"
-clctitle: 原子能技术
+aliases:
+  - TL - Nuclear engineering
+  - Nuclear engineering
+  - 原子能技术
 clcid: TL
+clctitle: 原子能技术
+ctime: 2024-12-06T17:19:35+08:00
+mtime: 2025-10-01T11:41:08+08:00
 ---
 
 # TL 原子能技术
