@@ -2,7 +2,7 @@
 up:
   - "[[R51 传染病]]"
 aliases:
-  - "立克次（Ricketts）氏体传染病"
+  - 立克次（Ricketts）氏体传染病
 ctime: 2025-11-28T15:51:33+08:00
 mtime: 2025-11-28T15:51:33+08:00
 down:
@@ -11,6 +11,8 @@ down:
   - "[[R513.3 斑疹热]]"
   - "[[R513.4 Q 热（Query 热）]]"
   - "[[R513.5 战壕热]]"
+clctitle: 立克次（Ricketts）氏体传染病
+clcid: R513
 ---
 
 # R513 立克次（Ricketts）氏体传染病

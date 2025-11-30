@@ -1,6 +1,8 @@
 filters:
   and:
     - file.inFolder("chineselibraryclassification")
+formulas:
+  lastaliase: aliases[-1]
 views:
   - type: cards
     name: Cards Icon
@@ -21,13 +23,13 @@ views:
     name: Table
     order:
       - file.name
-      - up
-      - down
-      - english
-      - ctime
+      - formula.lastaliase
+      - aliases
+    sort:
+      - property: formula.lastaliase
+        direction: ASC
     columnSize:
-      note.english: 93
-      note.ctime: 184
+      formula.lastaliase: 286
   - type: cards
     name: Cards
     order:

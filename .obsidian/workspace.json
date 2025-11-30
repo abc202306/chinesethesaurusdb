@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0473235cafa780",
+        "id": "89f1933dc6265c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "87dd8cdd5c86bc83",
+            "id": "6798e42294292c9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/TP - 主题词.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TP - 主题词"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"chineselibraryclassification/\" file:~",
+                "query": "path:chineselibraryclassification/ -[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/Chinese Thesaurus Classification Base.base",
+                "file": "base/Chinese Library Classification Base.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chinese Thesaurus Classification Base"
+              "title": "Backlinks for Chinese Library Classification Base"
             }
           },
           {
@@ -156,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/TP - 主题词.md",
+                "file": "base/Chinese Library Classification Base.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TP - 主题词"
+              "title": "Outline of Chinese Library Classification Base"
             }
           },
           {
@@ -174,13 +171,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1f54ed8345a8a5c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,37 +201,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1295a3c383610b9b",
+  "active": "54f8dada6bf96680",
   "lastOpenFiles": [
-    "Untitled.md",
-    "templates/TP - 主题词.md",
-    "templater/TP - 主题词分类.md",
-    "templater",
+    "clcid.json",
+    "chineselibraryclassification/TL 原子能技术/TL8 粒子探测技术、辐射探测技术与核仪器仪表/TL816+.1 X 射线探测器.md",
+    "chineselibraryclassification/TL 原子能技术/TL8 粒子探测技术、辐射探测技术与核仪器仪表/TL816 中子和其他辐射探测器.md",
+    "chineselibraryclassification/D 政治、法律/DF 法律/DF083_087 各国.md",
+    "chineselibraryclassification/A 马克思主义、列宁主义、毛泽东思想、邓小平理论/A49 邓小平著作/A492 单行著作.md",
     "base/Chinese Library Classification Base.base",
+    "chineselibraryclassification/E 军事/E9 军事技术/E994.1_.7 陆军作战图.md",
+    "chineselibraryclassification/E 军事/E9 军事技术/E993.3_.7 各国军事地理.md",
+    "chineselibraryclassification/E 军事/E8 战略学、战役学、战术学/E893_897 各国.md",
+    "chineselibraryclassification/E 军事/E2 中国军事/E292_294.9 古代各时期军事史（1840 年以前）.md",
+    "chineselibraryclassification/D 政治、法律/DF 法律/DF093_097 各国.md",
+    "chineselibraryclassification/D 政治、法律/DF 法律/DF13_17 各国.md",
+    "chineselibraryclassification/D 政治、法律/D9 法律/D909.3_.7 各国.md",
+    "chineselibraryclassification/D 政治、法律/D8 外交、国际关系/D829.3_.7 与各国外交关系史.md",
+    "chineselibraryclassification/D 政治、法律/D6 中国政治/D443_447 各国妇女运动与组织.md",
+    "chineselibraryclassification/D 政治、法律/D4 工人、农民、青年、妇女运动与组织/D443_447 各国妇女运动与组织.md",
+    "chineselibraryclassification/D 政治、法律/D4 工人、农民、青年、妇女运动与组织/D433_437 各国青年、学生运动与组织.md",
+    "chineselibraryclassification/D 政治、法律/D4 工人、农民、青年、妇女运动与组织/D423_427 各国农民运动与组织.md",
+    "chineselibraryclassification/D 政治、法律/D4 工人、农民、青年、妇女运动与组织/D413_417 各国工人运动与组织.md",
+    "chineselibraryclassification/D 政治、法律/D2 中国共产党/D292.1_.7 地方组织、会议及其文献.md",
+    "chineselibraryclassification/D 政治、法律/D2 中国共产党/D221_227 地方组织、会议及其文献.md",
+    "chineselibraryclassification/D 政治、法律/D0 政治理论/D093_097 各国政治思想史.md",
+    "chineselibraryclassification/D 政治、法律/D9 法律/D93_97 各国法律.md",
+    "chineselibraryclassification/C 社会科学总论/C8 统计学/C833_837 各国.md",
+    "chineselibraryclassification/D 政治、法律/D8 外交、国际关系/D83_87 各国外交.md",
+    "chineselibraryclassification/C 社会科学总论/C92 人口学/C924.3_.7 各国人口.md",
+    "chineselibraryclassification/C 社会科学总论/C8 统计学/C832.1_.7 各地区统计资料.md",
+    "templater",
     "base/Chinese Library Classification Aliase Base.base",
-    "chineselibraryclassification/I 文学/I2 中国文学/I226 现代作品（1919_1949 年）.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I222.6 乐府.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I222.2 诗经.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.96 鲁迅思想的学习和研究.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.8 手稿、墨迹.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.3 理论著作.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.2 选集、文集.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.5 诗.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I211 作品综合集.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.97 著作研究.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.4 杂文、散文.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.91 史著.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210.6 小说.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I210 鲁迅著作及研究.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I207.427 短篇、故事.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I207.419 其他古代小说研究与评论.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I207.413 《三国演义》研究与评论.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I209.9 地方文学史.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I209 文学史、文学思想史.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I207.425 长篇、中篇小说.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I207.424 章回小说.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I207.412 《水浒》研究与评论.md",
-    "chineselibraryclassification/I 文学/I2 中国文学/I207.411 《红楼梦》研究与评论.md",
     "templates",
     "新建文件夹",
     "base/Chinese Thesaurus Classification Base.base",

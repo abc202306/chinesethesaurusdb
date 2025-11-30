@@ -21,6 +21,8 @@ aliases:
 icon: "[[A_coloured_voting_box_(no_bg)_(cropped).svg]]"
 ctime: 2024-12-06T17:38:40+08:00
 mtime: 2025-10-04T15:11:29+08:00
+clctitle: 政治、法律
+clcid: D
 ---
 
 # D 政治、法律

@@ -17,6 +17,8 @@ aliases:
 icon: "[[E 军事 - Pasted image 20251006230426.png]]"
 ctime: 2025-03-01T23:18:48+08:00
 mtime: 2025-10-06T23:04:42+08:00
+clctitle: 军事
+clcid: E
 ---
 
 # E 军事

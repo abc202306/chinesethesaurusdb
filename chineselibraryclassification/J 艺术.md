@@ -23,6 +23,8 @@ aliases:
 icon: "[[J 艺术 - Pasted image 20251004152555.png]]"
 ctime: 2025-03-01T23:21:20+08:00
 mtime: 2025-10-04T15:26:14+08:00
+clctitle: 艺术
+clcid: J
 ---
 
 # J 艺术

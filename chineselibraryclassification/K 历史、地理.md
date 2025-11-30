@@ -25,6 +25,8 @@ icon: "[[K 历史、地理 - Pasted image 20251004155007.png]]"
 cover: "[[Carstian_Luyckx_-_Still_life_with_a_globe,_books,_shells_and_corals_resting_on_a_stone_ledge.jpg]]"
 ctime: 2025-03-01T23:21:40+08:00
 mtime: 2025-10-04T15:50:55+08:00
+clctitle: 历史、地理
+clcid: K
 ---
 
 # K 历史、地理

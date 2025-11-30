@@ -14,6 +14,8 @@ aliases:
 icon: "[[Books_and_Scroll_Ornament_with_Open_Book.png]]"
 ctime: 2025-03-01T23:20:50+08:00
 mtime: 2025-10-04T15:24:55+08:00
+clctitle: 文学
+clcid: I
 ---
 
 # I 文学
