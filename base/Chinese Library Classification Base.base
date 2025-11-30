@@ -1,6 +1,6 @@
 filters:
   and:
-    - up.contains(link("中国图书馆分类法"))
+    - file.inFolder("chineselibraryclassification")
 views:
   - type: cards
     name: Cards Icon
@@ -17,6 +17,17 @@ views:
     image: note.icon
     cardSize: 130
     imageFit: contain
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - up
+      - down
+      - english
+      - ctime
+    columnSize:
+      note.english: 93
+      note.ctime: 184
   - type: cards
     name: Cards
     order:
@@ -29,17 +40,6 @@ views:
       note.english: 281
       note.ctime: 184
     cardSize: 200
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - up
-      - down
-      - english
-      - ctime
-    columnSize:
-      note.english: 281
-      note.ctime: 184
   - type: table
     name: CreatedRecently
     order:

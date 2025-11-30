@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78e81b38face1fc2",
+        "id": "1a0473235cafa780",
         "type": "tabs",
         "children": [
           {
-            "id": "e79f78cfb0cac04e",
+            "id": "87dd8cdd5c86bc83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1. 【设计文档】笔记库的结构和依赖.md",
+                "file": "templates/TP - 主题词.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "1. 【设计文档】笔记库的结构和依赖"
+              "title": "TP - 主题词"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1. 【设计文档】笔记库的结构和依赖.md",
+                "file": "templates/TP - 主题词.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. 【设计文档】笔记库的结构和依赖"
+              "title": "Outline of TP - 主题词"
             }
           },
           {
@@ -181,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,38 +194,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54f8dada6bf96680",
+  "active": "1295a3c383610b9b",
   "lastOpenFiles": [
-    "chineselibraryclassification/U 交通运输/U6 水路运输/U674.7+03.5 武器设备.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+1 Ｘ射线分析技术.md",
-    "chineselibraryclassification/U 交通运输/U6 水路运输/[U674.7+03.54] 导弹发射装置.md",
-    "chineselibraryclassification/U 交通运输/U6 水路运输/[U674.7+03.53] 水中武器.md",
-    "chineselibraryclassification/U 交通运输/U6 水路运输/[U674.7+03.52] 射击武器.md",
-    "chineselibraryclassification/U 交通运输/U6 水路运输/U674.7+03.51 射击指挥仪.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+1.5 Ｘ射线结构分析.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+1.4 Ｘ射线线谱分析.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+1.3 照相技术.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+1.2 样品制备.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+2.4 织构测定.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+2.3 相图分析、物相分析.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+2.2 应力测定.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+2.1 晶粒测定.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+5.4 细聚焦.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+5.3 单色器.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+5.2 X 射线发生、控制装置.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+5.1 X 射线自动记录仪.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+1.3 金相组织显示方法.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+1.2 磨片、试样制备.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.9 其他分析内容.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.5 化学热处理渗入厚度测定.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.4 脱碳层的测定.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.3 非金属夹杂物的测定.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.2 铸铁中石墨、球墨的测定.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.1 晶粒大小的测定.md",
+    "Untitled.md",
+    "templates/TP - 主题词.md",
+    "templater/TP - 主题词分类.md",
     "templater",
-    "新建文件夹",
-    "base/Chinese Library Classification Aliase Base.base",
     "base/Chinese Library Classification Base.base",
+    "base/Chinese Library Classification Aliase Base.base",
+    "chineselibraryclassification/I 文学/I2 中国文学/I226 现代作品（1919_1949 年）.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I222.6 乐府.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I222.2 诗经.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.96 鲁迅思想的学习和研究.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.8 手稿、墨迹.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.3 理论著作.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.2 选集、文集.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.5 诗.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I211 作品综合集.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.97 著作研究.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.4 杂文、散文.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.91 史著.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210.6 小说.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I210 鲁迅著作及研究.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I207.427 短篇、故事.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I207.419 其他古代小说研究与评论.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I207.413 《三国演义》研究与评论.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I209.9 地方文学史.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I209 文学史、文学思想史.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I207.425 长篇、中篇小说.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I207.424 章回小说.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I207.412 《水浒》研究与评论.md",
+    "chineselibraryclassification/I 文学/I2 中国文学/I207.411 《红楼梦》研究与评论.md",
+    "templates",
+    "新建文件夹",
     "base/Chinese Thesaurus Classification Base.base",
     "base/Chinese Thesaurus Source Base.base",
     "base/Chinese Thesaurus Base.base"
