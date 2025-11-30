@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chineselibraryclassification/U 交通运输/U6 水路运输/U674.7+03.5 武器设备.md",
+                "file": "docs/1. 【设计文档】笔记库的结构和依赖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U674.7+03.5 武器设备"
+              "title": "1. 【设计文档】笔记库的结构和依赖"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/- down:\\n\\t- [A-Z]/",
+                "query": "path:\"chineselibraryclassification/\" file:~",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chineselibraryclassification/U 交通运输/U6 水路运输/U674.7+03.5 武器设备.md",
+                "file": "docs/1. 【设计文档】笔记库的结构和依赖.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of U674.7+03.5 武器设备"
+              "title": "Outline of 1. 【设计文档】笔记库的结构和依赖"
             }
           },
           {
@@ -194,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1295a3c383610b9b",
+  "active": "54f8dada6bf96680",
   "lastOpenFiles": [
+    "chineselibraryclassification/U 交通运输/U6 水路运输/U674.7+03.5 武器设备.md",
     "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.22+1 Ｘ射线分析技术.md",
     "chineselibraryclassification/U 交通运输/U6 水路运输/[U674.7+03.54] 导弹发射装置.md",
     "chineselibraryclassification/U 交通运输/U6 水路运输/[U674.7+03.53] 水中武器.md",
@@ -221,7 +223,6 @@
     "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.3 非金属夹杂物的测定.md",
     "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.2 铸铁中石墨、球墨的测定.md",
     "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+3.1 晶粒大小的测定.md",
-    "chineselibraryclassification/TG 金属学与金属工艺/TG1 金属学与热处理/TG115.21+5.9 其他显微分析仪器.md",
     "templater",
     "新建文件夹",
     "base/Chinese Library Classification Aliase Base.base",
