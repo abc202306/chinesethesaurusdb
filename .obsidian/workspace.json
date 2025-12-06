@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8df05a0750abfa0c",
+        "id": "bd4e8971cbfef938",
         "type": "tabs",
         "children": [
           {
-            "id": "323c62f8d4866cd1",
+            "id": "446190ba90c52bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725.7 小儿消化系及腹部疾病.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R725.7 小儿消化系及腹部疾病"
+              "title": "README"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"chineselibraryclassification/\" /^#\\s[^]*^#\\s/",
+                "query": "file:日本",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 457.5
   },
   "right": {
     "id": "4aaedeb23df86444",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725.7 小儿消化系及腹部疾病.md",
+                "file": "chineselibraryclassification/ZY_ 附表/② 世界地区表/②65 密克罗尼西亚.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for R725.7 小儿消化系及腹部疾病"
+              "title": "Backlinks for ②65 密克罗尼西亚"
             }
           },
           {
@@ -134,8 +133,21 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "1218f84f3dfeda75",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for README"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,40 +164,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "323c62f8d4866cd1",
+  "active": "446190ba90c52bcc",
   "lastOpenFiles": [
-    "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725 小儿内科学.md",
-    "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725.6 小儿呼吸系及胸部疾病.md",
-    "chineselibraryclassification/R 医药、卫生/R72 儿科学/R725.5 小儿血液及淋巴系疾病.md",
-    "chineselibraryclassification/R 医药、卫生/R72 儿科学.md",
-    "chineselibraryclassification/R 医药、卫生/R72 儿科学/R723 婴儿的营养障碍.md",
-    "chineselibraryclassification/R 医药、卫生.md",
-    "chineselibraryclassification/R 医药、卫生/R3 基础医学.md",
-    "chineselibraryclassification/R 医药、卫生/R3 基础医学/R395 医学心理学、病理心理学.md",
-    "chineselibraryclassification/R 医药、卫生/R3 基础医学/[R395.4] 精神病与心理.md",
-    "chineselibraryclassification/R 医药、卫生/R4 临床医学/R44 诊断学.md",
-    "chineselibraryclassification/R 医药、卫生/R74 神经病学与精神病学/R749 精神病学.md",
-    "chineselibraryclassification/R 医药、卫生/R74 神经病学与精神病学/R741 神经病学.md",
-    "chineselibraryclassification/K 历史、地理.md",
-    "chineselibraryclassification/F 经济/F0 经济学.md",
-    "chinesethesaurus/治愈.md",
-    "chinesethesaurus/绿色软件.md",
-    "chinesethesaurus/接口程序.md",
-    "chinesethesaurus/合作.md",
-    "chinesethesaurus/方式.md",
-    "chinesethesaurus/订阅.md",
-    "chinesethesaurus/单片机软件.md",
-    "chinesethesaurus/按钮.md",
-    "chineselibraryclassification/Z 综合性图书.md",
-    "chineselibraryclassification/U 交通运输.md",
-    "chineselibraryclassification/I 文学.md",
-    "chineselibraryclassification/ZT_ 通用概念.md",
-    "base/Chinese Library Classification Aliase Base.base",
-    "base/Chinese Library Classification Base.base",
-    "meta",
+    "collection/中国图书馆分类法.md",
+    "chineselibraryclassification/H 语言、文字.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H06 词典学.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H061 词典.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H05 写作学与修辞学.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H052 文体论.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H059 翻译学.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H03 语义学、语用学、词汇学、词义学.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H034 俗语.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H035 外来语.md",
+    "chineselibraryclassification/H 语言、文字/H0 语言学/H032 同义词、多义词、反义词.md",
+    "chineselibraryclassification/H 语言、文字/H83 美洲诸语言.md",
+    "chineselibraryclassification/H 语言、文字/H83 美洲诸语言/H832 图皮 - 瓜拉尼语系（巴拉圭、巴西西南部）.md",
+    "chineselibraryclassification/H 语言、文字/H83 美洲诸语言/H831 那华特耳语、奎车语、卡克契阔耳语、曼姆语、犹卡特克语、刻克齐语、奥托米语、乍泼特克语、密希特克语、托托那克语（墨西哥、危地马拉境内语言）.md",
+    "chineselibraryclassification/H 语言、文字/H67 闪 - 含语系（阿非罗 - 亚细亚语系）.md",
+    "chineselibraryclassification/H 语言、文字/H81 非洲诸语言.md",
+    "chineselibraryclassification/H 语言、文字/H84 大洋洲诸语言.md",
+    "chineselibraryclassification/H 语言、文字/H61 南亚语系（澳斯特罗 - 亚细亚语系）.md",
+    "chineselibraryclassification/I 文学/I0 文学理论.md",
+    "chineselibraryclassification/I 文学/I1 世界文学.md",
+    "chineselibraryclassification/I 文学/I2 中国文学.md",
+    "chineselibraryclassification/I 文学/I3_7 各国文学.md",
+    "chineselibraryclassification/TP 自动化技术、计算机技术/TP1 自动化基础理论.md",
+    "chineselibraryclassification/TP 自动化技术、计算机技术/[TP-9] 自动化技术经济.md",
+    "chineselibraryclassification/TP 自动化技术、计算机技术/TP2 自动化技术及设备.md",
     "base/Chinese Thesaurus Base.base",
-    "base/Chinese Thesaurus Source Base.base",
     "base/Chinese Thesaurus Classification Base.base",
+    "base/Chinese Library Classification Base.base",
+    "base/Chinese Library Classification Aliase Base.base",
+    "base/Markdown Base.base",
+    "base/Chinese Thesaurus Source Base.base",
+    "meta",
     "canvas/中国图书馆分类法 Canvas.canvas",
     "canvas/O 数理科学和化学 Canvas.canvas",
     "lagacy",
@@ -193,7 +206,6 @@
     "canvas/H 语言、文字 Canvas.canvas",
     "canvas/D 政治、法律 Canvas.canvas",
     "clcid.json",
-    "templater",
-    "templates"
+    "templater"
   ]
 }
