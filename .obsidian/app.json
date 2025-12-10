@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "promptDelete": false
 }

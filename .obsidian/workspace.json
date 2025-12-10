@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4e8971cbfef938",
+        "id": "4d813f3130509857",
         "type": "tabs",
         "children": [
           {
-            "id": "446190ba90c52bcc",
+            "id": "d5bcdfbd868c7d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "chineselibraryclassification/D 政治、法律/D6 中国政治/D669 社会生活与社会问题.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "D669 社会生活与社会问题"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:日本",
+                "query": "问题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 301.5
   },
   "right": {
     "id": "4aaedeb23df86444",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chineselibraryclassification/ZY_ 附表/② 世界地区表/②65 密克罗尼西亚.md",
+                "file": "chinesethesaurusclassification/TP309 计算机安全、计算机保密 主题词分类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ②65 密克罗尼西亚"
+              "title": "Backlinks for TP309 计算机安全、计算机保密 主题词分类"
             }
           },
           {
@@ -140,18 +141,19 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "base/Chinese Library Classification Base.base"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Chinese Library Classification Base"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,40 +166,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "446190ba90c52bcc",
+  "active": "d5bcdfbd868c7d14",
   "lastOpenFiles": [
-    "collection/中国图书馆分类法.md",
-    "chineselibraryclassification/H 语言、文字.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H06 词典学.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H061 词典.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H05 写作学与修辞学.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H052 文体论.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H059 翻译学.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H03 语义学、语用学、词汇学、词义学.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H034 俗语.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H035 外来语.md",
-    "chineselibraryclassification/H 语言、文字/H0 语言学/H032 同义词、多义词、反义词.md",
-    "chineselibraryclassification/H 语言、文字/H83 美洲诸语言.md",
-    "chineselibraryclassification/H 语言、文字/H83 美洲诸语言/H832 图皮 - 瓜拉尼语系（巴拉圭、巴西西南部）.md",
-    "chineselibraryclassification/H 语言、文字/H83 美洲诸语言/H831 那华特耳语、奎车语、卡克契阔耳语、曼姆语、犹卡特克语、刻克齐语、奥托米语、乍泼特克语、密希特克语、托托那克语（墨西哥、危地马拉境内语言）.md",
-    "chineselibraryclassification/H 语言、文字/H67 闪 - 含语系（阿非罗 - 亚细亚语系）.md",
-    "chineselibraryclassification/H 语言、文字/H81 非洲诸语言.md",
-    "chineselibraryclassification/H 语言、文字/H84 大洋洲诸语言.md",
-    "chineselibraryclassification/H 语言、文字/H61 南亚语系（澳斯特罗 - 亚细亚语系）.md",
-    "chineselibraryclassification/I 文学/I0 文学理论.md",
-    "chineselibraryclassification/I 文学/I1 世界文学.md",
-    "chineselibraryclassification/I 文学/I2 中国文学.md",
-    "chineselibraryclassification/I 文学/I3_7 各国文学.md",
-    "chineselibraryclassification/TP 自动化技术、计算机技术/TP1 自动化基础理论.md",
-    "chineselibraryclassification/TP 自动化技术、计算机技术/[TP-9] 自动化技术经济.md",
-    "chineselibraryclassification/TP 自动化技术、计算机技术/TP2 自动化技术及设备.md",
-    "base/Chinese Thesaurus Base.base",
-    "base/Chinese Thesaurus Classification Base.base",
+    "chineselibraryclassification/D 政治、法律/D6 中国政治/D669.68 妇女.md",
+    "chineselibraryclassification/D 政治、法律/D6 中国政治/[D669.7] 社会福利.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN1 真空电子技术.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN94 电视.md",
+    "chineselibraryclassification/TN 无线电电子学、电信技术/TN94 电视/TN946 录像系统、放像系统.md",
+    "chinesethesaurusclassification/TN946 录像系统、放像系统 主题词分类.md",
+    "chinesethesaurus/录制.md",
+    "chinesethesaurus/录音.md",
+    "chinesethesaurus/账号管理.md",
+    "chinesethesaurus/账号安全.md",
+    "chinesethesaurusclassification/TP309 计算机安全、计算机保密 主题词分类.md",
+    "chinesethesaurus/计算机安全.md",
+    "chinesethesaurus/信息安全.md",
+    "chinesethesaurus/安全.md",
+    "chinesethesaurus/食品安全.md",
+    "chinesethesaurus/知识查询操作语言.md",
+    "chinesethesaurus/计算机语言.md",
+    "chinesethesaurus/函数式语言.md",
+    "chinesethesaurus/正则语言.md",
+    "chinesethesaurus/查询语句.md",
+    "chinesethesaurus/传统软件.md",
+    "chinesethesaurus/策略.md",
+    "chinesethesaurus/版本控制.md",
+    "chinesethesaurus/标记语言.md",
+    "chinesethesaurus/专用语言.md",
+    "chinesethesaurus/策略语言.md",
     "base/Chinese Library Classification Base.base",
+    "base/Chinese Thesaurus Classification Base.base",
     "base/Chinese Library Classification Aliase Base.base",
-    "base/Markdown Base.base",
     "base/Chinese Thesaurus Source Base.base",
+    "base/Markdown Base.base",
+    "base/Chinese Thesaurus Base.base",
+    "assets/pictures/clcitemicon/A 马克思主义、列宁主义、毛泽东思想、邓小平理论/Marx_Engels_icon.svg",
+    "assets/pictures/clcitemicon/Z 综合性图书/Z 综合性图书 - Pasted image 20251004154559.png",
+    "assets/pictures/clcitemicon/U 交通运输/U 交通运输 - Pasted image 20251004154130.png",
     "meta",
     "canvas/中国图书馆分类法 Canvas.canvas",
     "canvas/O 数理科学和化学 Canvas.canvas",
